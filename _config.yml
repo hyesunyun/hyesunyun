@@ -81,7 +81,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: # work page URL
+work_url: https://www.khoury.northeastern.edu/people/hye-sun-yun/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -247,10 +247,9 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: Yun
-  first_name: [Hye Sun]
-
+  last_name: [Yun]
+  first_name: [Hye Sun, H.S.]
+  
   style: apa
   locale: en
 

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science PhD student at <a href='https://www.northeastern.edu/'>Northeastern University</a>
+subtitle: <a href='https://www.khoury.northeastern.edu/'>Khoury College of Computer Sciences</a> --- <a href='https://www.northeastern.edu/'>Northeastern University</a>
 
 profile:
   align: right
