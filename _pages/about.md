@@ -21,9 +21,9 @@ My name is Hye Sun.
 
 I am a Computer Science PhD student at [Northeastern University](https://www.northeastern.edu/) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/).
 I work on HCI and NLP, mainly on applications in health. I am co-advised by [Timothy Bickmore](https://www.ccs.neu.edu/home/bickmore/) and [Byron Wallace](https://www.byronwallace.com/).
-I am interested in applying HCI methods to the design and development of NLP models that meets the needs, preferences, and requirements of the users.
+I am interested in applying HCI methods to the design and development of NLP models that meets the needs, interests, preferences, and requirements of the users.
 
 Before my PhD, I worked as a software engineer/manager for three years at Wayfair.
 I earned my bachelors in Computer Science and Africana Studies at [Wellesley College](https://www.wellesley.edu/).
 
-I love playing Ultimate Frisbee, running, cooking, and trying out different restaurants.
+I love playing Ultimate Frisbee, running, cooking, and trying different restaurants and cuisines.
