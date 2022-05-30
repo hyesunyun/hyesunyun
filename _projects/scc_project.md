@@ -4,7 +4,7 @@ title: smart and connected churches
 description: a church community health intervention project
 img: assets/img/clara.webp
 importance: 1
-category: work
+category: research
 ---
 
 > Culture plays an important role in health promotion interventions, and there has been an increasing use of community-based settings for health promotion activities. Church membership provides a strong foundation for social support, regular face-to-face meetings that represent additional channels for intervention, authority figures (clergy) who can be appealed to in health messaging, and a shared belief system that can be leveraged in motivating behavior change. Many churches also have a group of highly-engaged volunteers who run “Health Ministries”, responsible for promoting the health of the congregation and the broader community, and represent additional resources for health interventions.
