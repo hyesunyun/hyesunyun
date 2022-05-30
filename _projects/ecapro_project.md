@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ECA-PRO
-description: Embodied Conversational Agent - Patient Reported Outcomes
+description: patient reported outcomes with emobdied conversational agents
 importance: 3
 category: work
 ---

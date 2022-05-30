@@ -1,7 +1,7 @@
 ---
 layout: page
 title: smart and connected churches
-description: a church community health intervention project to promote healthy behavior change
+description: a church community health intervention project
 img: assets/img/clara.webp
 importance: 1
 category: work
