@@ -58,14 +58,14 @@ github_username: hyesunyun # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: hyesunyun # your Twitter handle
 linkedin_username: hyesunyun # your LinkedIn user name
-scholar_userid: GCUd5rEAAAAJ # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://www.khoury.northeastern.edu/people/hye-sun-yun/ # work page URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -201,8 +201,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Yun
+  first_name: [Hye Sun]
 
   style: apa
   locale: en
