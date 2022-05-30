@@ -7,10 +7,7 @@ subtitle: Computer Science PhD student at <a href='https://www.northeastern.edu/
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>Northeastern Univeristy</p>
-    <p>Khoury College of Computer Sciences</p>
-    <p>Boston, MA, USA</p>
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello!
 
-My name is Hye Sun.
+My name is Hye Sun Yun (윤혜선 in Korean).
 
 I am a Computer Science PhD student at [Northeastern University](https://www.northeastern.edu/) in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/).
 I work on **Human-Computer Interactions (HCI)** and **Natural Language Processing (NLP)**, mainly on applications in health. I am co-advised by [Timothy Bickmore](https://www.ccs.neu.edu/home/bickmore/) and [Byron Wallace](https://www.byronwallace.com/).
