@@ -2,6 +2,7 @@
 layout: page
 title: update summarization
 description: updating synthesis summaries with new articles/evidence
+img: assets/img/update_summ_screenshot.png
 importance: 2
 category: work
 ---
