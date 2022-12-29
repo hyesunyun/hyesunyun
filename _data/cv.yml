@@ -2,96 +2,97 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Hye Sun Yun
     - name: Languages
-      value: English, German
+      value: English, Korean
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: Northeastern University, Boston, MA, USA
+      year: 2020 - NOW
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Advised by Timothy Bickmore and Byron Wallace
+    - title: B.A. in Computer Science and Africana Studies
+      institution: Wellesley College, Wellesley, MA, USA
+      year: 2017
+      description:
+        - magna cum laude
+
+- title: Research Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Relational Agents Group, Northeastern University
+      year: 2020 - NOW
+      description:
+        - Conducted research in the field of HCI and healthcare advised by Timothy Bickmore.
+        - Assisted in developing a research mHealth app with a conversational virtual agent to promote healthy behaviors for historically Black church mem‑
+bers by exploring ways to increase engagement and use through notifications and storytelling.
+        - title: In progress work
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Enhancing patient‑reported outcomes for individual use through embodied conversational agents.
+            - Using large language models to generate clinical depression survey item variants and testing their validity and reliability.
+    
+    - title: Research Assistant
+      institution: NLP Research Group, Northeastern University
+      year: 2021 - NOW
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+        - Conducted research in the field of NLP and biomedical text advised by Byron Wallace.
+        - Worked on NLP multi-document summarization research to improve and update systematic reviews of biomedical literature to help medical professionals make better clinical and policy decisions.
+        - xplored ways to utilize large generative language models to help with writing systematic reviews of biomedical literature through user surveys.
+    
+- title: Professional Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Full-stack Software Engineer/Engineering Manager
+      institution: Wayfair, Boston, MA
+      year: 2017 - 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Contributed to building new features as a full-stack developer of the supplier-facing web tool for adding new products to the catalog in bulk.
+        - Led 2 large, multi-phase refactoring projects -- a conversion of the frontend from Tungsten to React and Redux and the rewriting of my team’s Excel sheet import service.
+        - Guided and mentored my team through the addition of 10+ new hires as the most senior engineer on the team.
+        - Led larger team effort to incorporate pair programming as part of development work and led a program to train more code reviewers on the team.
+        - Gave department and team-wide talks on creating reusable Redux components and Jest testing.
+        - Led and managed a team of 3 software engineers.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant
+      institution: Wayfair, Boston, MA
+      year: 2019
+      description:
+        - Assisted students during the hands-on activities during Wayfair’s onboarding MVC framework class, once every 3 months.
+        - Answered questions online and in-person about MVC framework at Wayfair.
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Quality Assurance to Quality Engineer Program Instructor
+      institution: Wayfair, Boston, MA
+      year: 2019
+      description:
+        - Led and instructed 4 one-hour, department-wide sessions on SQL and Introduction to Programming in PHP to beginners on coding.
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Labs Mentor
+      institution: Wayfair, Boston, MA
+      year: 2019
+      description:
+        - Co-mentored 30 entry-level engineers in the Labs program on their first month’s full-stack project (React and PHP).
+        - Provided constant technical feedback through code reviews and conversations during weekly drop-in hours.
 
+    - title: Peer Tutor and Grader
+      institution: Pforzheimer Learning and Teaching Center, Wellesley College
+      year: 2014 - 2016
+      description:
+        - Spring 2016 | CS 231 Algorithms | Held weekly group tutoring sessions and graded homework. Contributed to weekly calibration meetings and teaching pedagogy discussions with the professor and fellow tutors & graders.
+        - Fall 2016 | CS 320 Tangible User Interface | Held weekly drop-in hours.
+        - Fall 2016 | CS 235 Languages & Automata | Held 1-1 tutoring and review sessions for CS235
+        - Fall 2014 & Spring 2015 | JPN 101 & 102 Beginning Japanese | Held weekly drop-in sessions to help students with their oral exercises and written homework.
+    
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Ultimate Frisbee
+    - Running
+    - Cooking and Baking
+    - Building mechanical keyboards

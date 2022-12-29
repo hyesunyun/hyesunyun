@@ -2,8 +2,8 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: Personal Github user account and publicly available github repositories from course projects.
-nav: true
+description: personal Github user account and public Github repositories from course projects
+nav: false
 nav_order: 3
 ---
 
