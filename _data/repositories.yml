@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hyesunyun
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - hyesunyun/TeamFIT
+  - hyesunyun/Double-Hard-Debias
+  - hyesunyun/cs7340-project
+  - hyesunyun/question-answering-cs6120
+  - hyesunyun/lit
+  - kkjeer/SIFT
+  - sliu4/CS304-DatabasesAndWebInterfaces-CodeBook

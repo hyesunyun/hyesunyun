@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: list of my academic research projects and also some fun projects
 nav: true
-nav_order: 1
+nav_order: 2
 display_categories: [research, fun]
 horizontal: false
 ---
