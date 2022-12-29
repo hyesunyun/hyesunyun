@@ -11,7 +11,7 @@
   contents:
     - title: PhD in Computer Science
       institution: Northeastern University, Boston, MA, USA
-      year: 2020 - NOW
+      year: 2020-NOW
       description:
         - Advised by Timothy Bickmore and Byron Wallace
     - title: B.A. in Computer Science and Africana Studies
@@ -25,7 +25,7 @@
   contents:
     - title: Research Assistant
       institution: Relational Agents Group, Northeastern University
-      year: 2020 - NOW
+      year: 2020-NOW
       description:
         - Conducted research in the field of HCI and healthcare advised by Timothy Bickmore.
         - Assisted in developing a research mHealth app with a conversational virtual agent to promote healthy behaviors for historically Black church mem‑
@@ -37,7 +37,7 @@ bers by exploring ways to increase engagement and use through notifications and 
     
     - title: Research Assistant
       institution: NLP Research Group, Northeastern University
-      year: 2021 - NOW
+      year: 2021-NOW
       description:
         - Conducted research in the field of NLP and biomedical text advised by Byron Wallace.
         - Worked on NLP multi-document summarization research to improve and update systematic reviews of biomedical literature to help medical professionals make better clinical and policy decisions.
@@ -48,7 +48,7 @@ bers by exploring ways to increase engagement and use through notifications and 
   contents:
     - title: Full-stack Software Engineer/Engineering Manager
       institution: Wayfair, Boston, MA
-      year: 2017 - 2020
+      year: 2017-2020
       description:
         - Contributed to building new features as a full-stack developer of the supplier-facing web tool for adding new products to the catalog in bulk.
         - Led 2 large, multi-phase refactoring projects -- a conversion of the frontend from Tungsten to React and Redux and the rewriting of my team’s Excel sheet import service.
@@ -82,7 +82,7 @@ bers by exploring ways to increase engagement and use through notifications and 
 
     - title: Peer Tutor and Grader
       institution: Pforzheimer Learning and Teaching Center, Wellesley College
-      year: 2014 - 2016
+      year: 2014-2016
       description:
         - Spring 2016 | CS 231 Algorithms | Held weekly group tutoring sessions and graded homework. Contributed to weekly calibration meetings and teaching pedagogy discussions with the professor and fellow tutors & graders.
         - Fall 2016 | CS 320 Tangible User Interface | Held weekly drop-in hours.
