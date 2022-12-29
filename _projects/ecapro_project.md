@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ECA-PRO
+title: patient-reported outcomes with agent
 description: patient reported outcomes with embodied conversational agents
 importance: 3
 category: research

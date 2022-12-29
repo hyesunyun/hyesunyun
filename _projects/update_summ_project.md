@@ -1,6 +1,6 @@
 ---
 layout: page
-title: update summarization
+title: updating synthesis reviews
 description: updating synthesis summaries with new articles/evidence
 importance: 2
 category: research
