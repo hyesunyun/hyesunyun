@@ -2,7 +2,7 @@
 layout: page
 title: smart and connected churches
 description: a church community health intervention project
-importance: 1
+importance: 3
 category: research
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: patient-reported outcomes with agent
+title: PROs with agent
 description: patient reported outcomes with embodied conversational agents
-importance: 3
+importance: 2
 category: research
 ---
 

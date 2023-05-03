@@ -40,7 +40,7 @@
       description:
         - Conducted research in the field of NLP and biomedical text advised by Byron Wallace.
         - Worked on NLP multi-document summarization research to improve and update systematic reviews of biomedical literature to help medical professionals make better clinical and policy decisions.
-        - xplored ways to utilize large generative language models to help with writing systematic reviews of biomedical literature through user surveys.
+        - Explored ways to utilize large generative language models to help with writing systematic reviews of biomedical literature through interviewing domain experts.
     
 - title: Professional Experience
   type: time_table
@@ -63,7 +63,7 @@
       institution: Wayfair, Boston, MA
       year: 2019
       description:
-        - Assisted students during the hands-on activities during Wayfair’s onboarding MVC framework class, once every 3 months.
+        - Assisted students during the hands-on activities during Wayfair's onboarding MVC framework class, once every 3 months.
         - Answered questions online and in-person about MVC framework at Wayfair.
 
     - title: Quality Assurance to Quality Engineer Program Instructor
@@ -76,7 +76,7 @@
       institution: Wayfair, Boston, MA
       year: 2019
       description:
-        - Co-mentored 30 entry-level engineers in the Labs program on their first month’s full-stack project (React and PHP).
+        - Co-mentored 30 entry-level engineers in the Labs program on their first month's full-stack project (React and PHP).
         - Provided constant technical feedback through code reviews and conversations during weekly drop-in hours.
 
     - title: Peer Tutor and Grader
@@ -94,4 +94,4 @@
     - Ultimate Frisbee
     - Running
     - Cooking and Baking
-    - Building mechanical keyboards
+    - Mechanical keyboards
