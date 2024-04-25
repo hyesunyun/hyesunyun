@@ -1,9 +1,9 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/HyeSunYun_CV.pdf/
 title: cv
-description: full cv can be accessed via the PDF icon on the right
+description: PDF CV
 nav: true
-nav_order: 4
+nav_order: 2
 cv_pdf: HyeSunYun_CV.pdf
 ---
