@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: /projects
 description: list of my academic research projects and also some fun projects
 nav: false
 nav_order: 3

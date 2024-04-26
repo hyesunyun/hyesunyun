@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /publications
 title: publications
 description: publications by categories in reversed chronological order
 years: [2024, 2023, 2022]

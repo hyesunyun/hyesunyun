@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /repositories/
+permalink: /repositories
 title: repositories
 description: personal Github user account and public Github repositories from course projects
 nav: false
