@@ -1,6 +1,8 @@
 ---
-layout: none
-permalink: /assets/pdf/HyeSunYun_CV.pdf/
+layout: cv
+permalink: /cv/
+title: cv
 nav: true
 nav_order: 2
+cv_pdf: HyeSunYun_CV.pdf
 ---
