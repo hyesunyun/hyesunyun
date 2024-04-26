@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: HyeSunYun_CV.pdf
+redirect_to: /assets/pdf/HyeSunYun_CV.pdf
 ---
