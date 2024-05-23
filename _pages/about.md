@@ -24,6 +24,8 @@ I work on **Human-Computer Interactions (HCI)** and **Natural Language Processin
 I am interested in human-centered AI and applying HCI and NLP research methods to meet the needs, interests, preferences, and requirements of end users. I love collaborating with diverse domain experts in multi/interdisciplinary projects tackling real-world problems.
 
 Before starting my PhD in fall of 2020, I worked as a full-stack software engineer/manager for three years at [Wayfair](https://www.wayfair.com/).
-I earned my bachelors in Computer Science and Africana Studies at [Wellesley College](https://www.wellesley.edu/).
+I earned my bachelor's in Computer Science and Africana Studies at [Wellesley College](https://www.wellesley.edu/).
 
 I love playing Ultimate Frisbee, running, cooking, and baking. A couple of years ago I completed [Reddit's 52 weeks of cooking](https://www.reddit.com/r/52weeksofcooking/) challenge. You can read all about my cooking adventures in my [cooking blog](https://heysonbyeson.wordpress.com/).
+
+> If you are interested in knowing more about my research or want to chat about CS PhD application process, please schedule a time with me [here](https://calendly.com/hyesunyun/chat) or feel free to email me!
