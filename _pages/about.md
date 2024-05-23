@@ -28,4 +28,4 @@ I earned my bachelor's in Computer Science and Africana Studies at [Wellesley Co
 
 I love playing Ultimate Frisbee, running, cooking, and baking. A couple of years ago I completed [Reddit's 52 weeks of cooking](https://www.reddit.com/r/52weeksofcooking/) challenge. You can read all about my cooking adventures in my [cooking blog](https://heysonbyeson.wordpress.com/).
 
-> If you are interested in knowing more about my research or want to chat about CS PhD application process, please schedule a time with me [here](https://calendly.com/hyesunyun/chat) or feel free to email me!
+> <span style="font-size:0.5em;">If you are interested in knowing more about my research or want to chat about CS PhD application process, please schedule a time with me [here](https://calendly.com/hyesunyun/chat) or feel free to email me!</span>
